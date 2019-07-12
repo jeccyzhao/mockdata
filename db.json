@@ -1,8 +1,8 @@
 {
   "user": [
-    { "id": 1, "name": "闻染", "status": 0, "sex": 2, "mobile": "18108134571", "face": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3300305952,1328708913&fm=27&gp=0.jpg", "registrationTime": "2019-07-01 15:15:14"},
+    { "id": 1, "name": "闻染", "status": 2, "sex": 2, "mobile": "18108134571", "face": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3300305952,1328708913&fm=27&gp=0.jpg", "registrationTime": "2019-07-01 15:15:14"},
     { "id": 2, "name": "李必", "status": 1, "sex": 1, "mobile": "18508104568", "face": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3300305952,1328708913&fm=27&gp=0.jpg", "registrationTime": "2019-07-02 09:15:14"},
-    { "id": 3, "name": "张小敬", "status": 1, "sex": 1, "mobile": "13500102541", "face": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3300305952,1328708913&fm=27&gp=0.jpg", "registrationTime": "2019-07-03 16:25:14"},
+    { "id": 3, "name": "张小敬", "status": 2, "sex": 1, "mobile": "13500102541", "face": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3300305952,1328708913&fm=27&gp=0.jpg", "registrationTime": "2019-07-03 16:25:14"},
 	{ "id": 4, "name": "何监", "status": 1, "sex": 1, "mobile": "13500102541", "face": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3300305952,1328708913&fm=27&gp=0.jpg", "registrationTime": "2019-07-03 18:14:14"}
   ],
   "parking": [
