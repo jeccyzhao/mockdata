@@ -13,7 +13,7 @@
     { "id": 5, "name": "东锦瑞苑", "serialNumber": "XNR1-6NLF-RKV2-4LWF", "type": "慧童", "lastActiveTime": "2019-07-03 18:14:14", "registrationTime": "2019-07-03 18:14:14", "remarks": "", "status": 1 },
     { "id": 6, "name": "沙河小区二期", "serialNumber": "BK2S-TCGB-YUK9-IUF7", "type": "慧童", "lastActiveTime": "2019-07-03 18:14:14", "registrationTime": "2019-07-03 18:14:14", "remarks": "", "status": 1 },
     { "id": 7, "name": "普河小区四号", "serialNumber": "HROT-0QJR-MPW6-U0ZA", "type": "慧童", "lastActiveTime": "2019-07-03 18:14:14", "registrationTime": "2019-07-03 18:14:14", "remarks": "", "status": 1 },
-    { "id": 8, "name": "红星小区", "serialNumber": "ZU31-EFC8-TK19-H54C", "type": "慧童", "lastActiveTime": "2019-07-03 18:14:14", "registrationTime": "2019-07-03 18:14:14", "remarks": "", "status": 1 },
+    { "id": 8, "name": "红星小区", "serialNumber": "ZU31-EFC8-TK19-H54C", "type": "慧童", "lastActiveTime": "2019-07-03 18:14:14", "registrationTime": "2019-07-03 18:14:14", "remarks": "", "status": 1 }
   ],
   "vehicle": [
     { "id" : 1, "name": "typicode" }
