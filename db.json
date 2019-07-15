@@ -23,5 +23,17 @@
 	{ "id" : 5, "garage" : "东锦瑞苑", "serialNumber": "we31x", "photo": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3300305952,1328708913&fm=27&gp=0.jpg", "owner": "何监", "contact": "123131", "expirationTime": "2019-09-02 09:15:14", "status" : 1 },
 	{ "id" : 6, "garage" : "红星小区", "serialNumber": "2343xbnw", "photo": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3300305952,1328708913&fm=27&gp=0.jpg", "owner": "张小敬", "contact": "123131", "expirationTime": "2019-09-02 09:15:14", "status" : 1 },
 	{ "id" : 7, "garage" : "红星小区", "serialNumber": "83dsd", "photo": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3300305952,1328708913&fm=27&gp=0.jpg", "owner": "闻染", "contact": "123131", "expirationTime": "2019-09-02 09:15:14", "status" : 1 }
+  ],
+  "terminal": [
+	{ "id": 1, "garage": "普河小区四号", "serialNumber": "ABex324x232", "eventType": 1, "eventTime": "2019-09-02 09:15:14" },
+	{ "id": 2, "garage": "普河小区四号", "serialNumber": "ABex324x232", "eventType": 2, "eventTime": "2019-09-02 09:15:14" },
+	{ "id": 3, "garage": "沙河小区一期", "serialNumber": "we31x", "eventType": 2, "eventTime": "2019-09-02 09:15:14" },
+	{ "id": 4, "garage": "沙河小区一期", "serialNumber": "we31x", "eventType": 2, "eventTime": "2019-09-02 09:15:14" },
+	{ "id": 5, "garage": "沙河小区一期", "serialNumber": "we31x", "eventType": 2, "eventTime": "2019-09-02 09:15:14" },
+	{ "id": 6, "garage": "普河小区二号", "serialNumber": "2343xbnw", "eventType": 1, "eventTime": "2019-09-02 09:15:14" },
+	{ "id": 7, "garage": "东锦瑞苑", "serialNumber": "83dsd", "eventType": 1, "eventTime": "2019-09-02 09:15:14" },
+	{ "id": 8, "garage": "红星小区", "serialNumber": "xds", "eventType": 1, "eventTime": "2019-09-02 09:15:14" },
+	{ "id": 9, "garage": "红星小区", "serialNumber": "xds", "eventType": 1, "eventTime": "2019-09-02 09:15:14" },
+	{ "id": 10, "garage": "红星小区", "serialNumber": "xds", "eventType": 1, "eventTime": "2019-09-02 09:15:14" }
   ]
 }
