@@ -5,45 +5,20 @@
     { "id": 3, "name": "张小敬", "status": 2, "gender": 1, "identityCard": "", "mobile": "13500102541", "face": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3300305952,1328708913&fm=27&gp=0.jpg", "expirationTime": "2019-09-02 09:15:14","registrationTime": "2019-07-03 16:25:14"},
 	{ "id": 4, "name": "何监", "status": 1, "gender": 1, "identityCard": "", "mobile": "13500102541", "face": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3300305952,1328708913&fm=27&gp=0.jpg", "expirationTime": "2019-09-02 09:15:14","registrationTime": "2019-07-03 18:14:14"}
   ],
-  "parking": [
-    { "id": 1, "name": "云水间一期", "capacity": 5,  "contact": "", "serialNumber": "XNSA-L3OO-6VAC-OY7V", "type": "慧童", "lastActiveTime": "2019-07-03 18:14:14", "registrationTime": "2019-07-03 18:14:14", "remarks": "", "status": 1 },
-    { "id": 2, "name": "沙河小区一期", "capacity": 5, "contact": "12", "serialNumber": "IUOY-I4PR-YLSU-JUVA", "type": "慧童", "lastActiveTime": "2019-07-03 18:14:14", "registrationTime": "2019-07-03 18:14:14", "remarks": "", "status": 1 },
-    { "id": 3, "name": "普河小区三号", "capacity": 5, "contact": "423", "serialNumber": "UTKW-TLNY-PTOA-WTJ1", "type": "慧童", "lastActiveTime": "2019-07-03 18:14:14", "registrationTime": "2019-07-03 18:14:14", "remarks": "", "status": 1 },
-    { "id": 4, "name": "普河小区二号", "capacity": 5, "contact": "1231", "serialNumber": "F3QS-IBJJ-LTBT-W1GZ", "type": "慧童", "lastActiveTime": "2019-07-03 18:14:14", "registrationTime": "2019-07-03 18:14:14", "remarks": "", "status": 1 },
-    { "id": 5, "name": "东锦瑞苑", "capacity": 5, "contact": "213", "serialNumber": "XNR1-6NLF-RKV2-4LWF", "type": "慧童", "lastActiveTime": "2019-07-03 18:14:14", "registrationTime": "2019-07-03 18:14:14", "remarks": "", "status": 1 },
-    { "id": 6, "name": "沙河小区二期", "capacity": 5, "contact": "1231", "serialNumber": "BK2S-TCGB-YUK9-IUF7", "type": "慧童", "lastActiveTime": "2019-07-03 18:14:14", "registrationTime": "2019-07-03 18:14:14", "remarks": "", "status": 1 },
-    { "id": 7, "name": "普河小区四号", "capacity": 5, "contact": "", "serialNumber": "HROT-0QJR-MPW6-U0ZA", "type": "慧童", "lastActiveTime": "2019-07-03 18:14:14", "registrationTime": "2019-07-03 18:14:14", "remarks": "", "status": 1 },
-    { "id": 8, "name": "红星小区", "capacity": 5, "contact": "", "serialNumber": "ZU31-EFC8-TK19-H54C", "type": "慧童", "lastActiveTime": "2019-07-03 18:14:14", "registrationTime": "2019-07-03 18:14:14", "remarks": "", "status": 1 }
-  ],
-  "vehicle": [
-    { "id" : 1, "garage" : "普河小区四号", "serialNumber": "ABex324x232", "photo": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3300305952,1328708913&fm=27&gp=0.jpg", "owner": "闻染", "contact": "123131", "expirationTime": "2019-09-02 09:15:14", "status" : 1 },
-	{ "id" : 2, "garage" : "沙河小区一期", "serialNumber": "1231", "photo": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3300305952,1328708913&fm=27&gp=0.jpg", "owner": "李必", "contact": "123131", "expirationTime": "2019-09-02 09:15:14", "status" : 1 },
-	{ "id" : 3, "garage" : "普河小区二号", "serialNumber": "xds", "photo": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3300305952,1328708913&fm=27&gp=0.jpg", "owner": "张小敬", "contact": "123131", "expirationTime": "2019-09-02 09:15:14", "status" : 1 },
-	{ "id" : 4, "garage" : "普河小区四号", "serialNumber": "2131", "photo": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3300305952,1328708913&fm=27&gp=0.jpg", "owner": "何监", "contact": "123131", "expirationTime": "2019-09-02 09:15:14", "status" : 1 },
-	{ "id" : 5, "garage" : "东锦瑞苑", "serialNumber": "we31x", "photo": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3300305952,1328708913&fm=27&gp=0.jpg", "owner": "何监", "contact": "123131", "expirationTime": "2019-09-02 09:15:14", "status" : 1 },
-	{ "id" : 6, "garage" : "红星小区", "serialNumber": "2343xbnw", "photo": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3300305952,1328708913&fm=27&gp=0.jpg", "owner": "张小敬", "contact": "123131", "expirationTime": "2019-09-02 09:15:14", "status" : 1 },
-	{ "id" : 7, "garage" : "红星小区", "serialNumber": "83dsd", "photo": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3300305952,1328708913&fm=27&gp=0.jpg", "owner": "闻染", "contact": "123131", "expirationTime": "2019-09-02 09:15:14", "status" : 1 }
-  ],
-  "terminal": [
-	{ "id": 1, "garage": "普河小区四号", "serialNumber": "ABex324x232", "eventType": 1, "eventTime": "2019-09-02 09:15:14" },
-	{ "id": 2, "garage": "普河小区四号", "serialNumber": "ABex324x232", "eventType": 2, "eventTime": "2019-09-02 09:15:14" },
-	{ "id": 3, "garage": "沙河小区一期", "serialNumber": "we31x", "eventType": 2, "eventTime": "2019-09-02 09:15:14" },
-	{ "id": 4, "garage": "沙河小区一期", "serialNumber": "we31x", "eventType": 2, "eventTime": "2019-09-02 09:15:14" },
-	{ "id": 5, "garage": "沙河小区一期", "serialNumber": "we31x", "eventType": 2, "eventTime": "2019-09-02 09:15:14" },
-	{ "id": 6, "garage": "普河小区二号", "serialNumber": "2343xbnw", "eventType": 1, "eventTime": "2019-09-02 09:15:14" },
-	{ "id": 7, "garage": "东锦瑞苑", "serialNumber": "83dsd", "eventType": 1, "eventTime": "2019-09-02 09:15:14" },
-	{ "id": 8, "garage": "红星小区", "serialNumber": "xds", "eventType": 1, "eventTime": "2019-09-02 09:15:14" },
-	{ "id": 9, "garage": "红星小区", "serialNumber": "xds", "eventType": 1, "eventTime": "2019-09-02 09:15:14" },
-	{ "id": 10, "garage": "红星小区", "serialNumber": "xds", "eventType": 1, "eventTime": "2019-09-02 09:15:14" }
-  ],
-  "receipt": [
-	{ "id": 1, "member": "闻染", "garage": "沙河小区一期", "serialNumber": "ABex324x232", "amount": 56.13, "payTime": "2019-09-02 09:15:14" },
-	{ "id": 1, "member": "李必", "garage": "普河小区四号", "serialNumber": "we31x", "amount": 156.13, "payTime": "2019-09-02 09:15:14" },
-	{ "id": 1, "member": "李必", "garage": "普河小区四号", "serialNumber": "we31x", "amount": 26.13, "payTime": "2019-09-02 09:15:14" },
-	{ "id": 1, "member": "闻染", "garage": "沙河小区一期", "serialNumber": "ABex324x232", "amount": 46.13, "payTime": "2019-09-02 09:15:14" },
-	{ "id": 1, "member": "闻染", "garage": "沙河小区一期", "serialNumber": "ABex324x232", "amount": 76.13, "payTime": "2019-09-02 09:15:14" },
-	{ "id": 1, "member": "李必", "garage": "普河小区二号", "serialNumber": "2343xbnw", "amount": 516.13, "payTime": "2019-09-02 09:15:14" },
-	{ "id": 1, "member": "李必", "garage": "普河小区二号", "serialNumber": "2343xbnw", "amount": 536.13, "payTime": "2019-09-02 09:15:14" },
-	{ "id": 1, "member": "闻染", "garage": "沙河小区一期", "serialNumber": "ABex324x232", "amount": 536.13, "payTime": "2019-09-02 09:15:14" }
+  "menu": [
+	{ "id": 1, "label": "仪表监控", "icon": "fa-tachometer-alt", "parent": null, "router": "/dashboard", "visible": 1, "order": 1 },
+	{ "id": 2, "label": "车库管理", "icon": "fa-warehouse", "parent": null, "router": "", "visible": 1, "order": 1 },
+	{ "id": 3, "label": "车库列表", "icon": "fa-list-alt", "parent": 2, "router": "/garage", "visible": 1, "order": 1 },
+	{ "id": 4, "label": "终端日志", "icon": "fa-tablet-alt", "parent": 2, "router": "/terminal", "visible": 1, "order": 1 },
+	{ "id": 5, "label": "会员管理", "icon": "fa-user", "parent": null, "router": "/member", "visible": 1, "order": 1 },
+	{ "id": 6, "label": "车辆管理", "icon": "fa-motorcycle", "parent": null, "router": "", "visible": 1, "order": 1 },
+	{ "id": 7, "label": "车辆列表", "icon": "fa-list-alt", "parent": 6, "router": "/vehicle", "visible": 1, "order": 1 },
+	{ "id": 8, "label": "出入记录", "icon": "fa-list", "parent": 6, "router": "/trace", "visible": 1, "order": 2 },
+	{ "id": 9, "label": "财务管理", "icon": "fa-donate", "parent": null, "router": "", "visible": 1, "order": 1 },
+	{ "id": 10, "label": "充值记录", "icon": "fa-hand-holding-usd", "parent": 9, "router": "/receipt", "visible": 1, "order": 1 },
+	{ "id": 11, "label": "系统管理", "icon": "fa-cogs", "parent": null, "router": "", "visible": 1, "order": 1 },
+	{ "id": 12, "label": "菜单管理", "icon": "fa-sitemap", "parent": 11, "router": "/system/menu", "visible": 1, "order": 1 },
+	{ "id": 13, "label": "权限管理", "icon": "fa-user-cog", "parent": 11, "router": "/system/permission", "visible": 1, "order": 1 },
+	{ "id": 14, "label": "系统配置", "icon": "fa-cog", "parent": 11, "router": "/system/config", "visible": 1, "order": 1 }
   ]
 }
